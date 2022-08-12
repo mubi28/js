@@ -1,0 +1,57 @@
+why javascript
+convert static web page to interactive web page
+interact with user
+
+1st app in index.app(hello world) line 1
+
+2nd values and variables
+
+var myName = 'mubi' here var is 'key' in javascript
+
+in varriable name we cannot use numbers and special characters like %
+
+3rd Data types in javascript
+
+(4) Expressions and Operators 
+
+5+20=25 this is expressions
+ 5 is operand and += are Operators
+
+difference between == and ===
+== sirf value ka btata hai
+=== value k 7 os ki datatype bhi btata hai
+
+falsy values in javascript
+0,"", undefined, null, NaN, false
+2:20 hrs in thapa video
+if you put any falsy value in if condition, then it will always produce the else statement as output
+
+conditional ternary opertor
+it takes three aperands
+
+Switch Statements
+
+LOOPS
+while loop vs do-while loop
+while loop creates aloop that excute a specified statement as long as the condition will true
+
+do-while loop
+must give one output
+check codition last
+
+for loop 
+for(initializer;condition;iteration){
+    code to be excuted}
+
+FUNCTIONS
+functions is a block of code design to perform a prticular task
+ 1)function definition/ function deceleration/ function statement
+ 2) function name
+ 3) Function parameter vs function argumemnts
+ function parameter are the names listed in function definition
+ function arguments are the actual values passed to the Function
+
+function expressions 
+create a function and put it into the varriable
+
+returnkeyword
